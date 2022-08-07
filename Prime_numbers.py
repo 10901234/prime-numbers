@@ -13,3 +13,6 @@ for i in range(2, end_num):
         sum = sum + i
 
 print(sum)
+
+ID- 10901234
+NAME-Amedorme Pearl
